@@ -1,0 +1,13 @@
+imagen,tipo_ruido,nivel,psnr,ssim,eleccion_visual,motivo_y_region_observada
+01_textura_ladrillos.png,gaussiano,10,bilateral_A,gaussiano_1,,
+01_textura_ladrillos.png,gaussiano,20,gaussiano_1,bilateral_B,,
+01_textura_ladrillos.png,gaussiano,40,mediana_truncada,gaussiano_2,,
+01_textura_ladrillos.png,sal_pimienta,5,mediana_hibrida,mediana_hibrida,,
+01_textura_ladrillos.png,sal_pimienta,10,mediana_3,mediana_hibrida,,
+01_textura_ladrillos.png,sal_pimienta,30,mediana_5,mediana_5,,
+02_bordes_monedas.png,gaussiano,10,bilateral_A,bilateral_A,,
+02_bordes_monedas.png,gaussiano,20,bilateral_B,bilateral_B,,
+02_bordes_monedas.png,gaussiano,40,bilateral_B,gaussiano_2,,
+02_bordes_monedas.png,sal_pimienta,5,mediana_hibrida,mediana_hibrida,,
+02_bordes_monedas.png,sal_pimienta,10,mediana_hibrida,mediana_hibrida,,
+02_bordes_monedas.png,sal_pimienta,30,mediana_5,mediana_5,,

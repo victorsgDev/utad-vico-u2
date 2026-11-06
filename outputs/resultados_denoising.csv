@@ -1,0 +1,109 @@
+imagen,tipo_ruido,nivel,filtro,parametros,psnr,ssim,tiempo_ms
+01_textura_ladrillos.png,sal_pimienta,5,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",27.326014693388903,0.646549304377838,0.146399999721325
+01_textura_ladrillos.png,sal_pimienta,5,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",28.16911634467253,0.7013708876314924,0.20669999958045082
+01_textura_ladrillos.png,sal_pimienta,5,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",26.69468771497285,0.7876216773109113,0.37339999926189194
+01_textura_ladrillos.png,sal_pimienta,5,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",38.009153764412524,0.9808098853114358,0.04619999981514411
+01_textura_ladrillos.png,sal_pimienta,5,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",33.54664941415673,0.9590405527655346,0.3482000001895358
+01_textura_ladrillos.png,sal_pimienta,5,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",38.125007364727935,0.9847549250713612,167.28350000084902
+01_textura_ladrillos.png,sal_pimienta,5,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",31.759910430162194,0.937819183502443,80.68199999979697
+01_textura_ladrillos.png,sal_pimienta,5,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",18.75674230264698,0.35267162470408936,1.4824999998381827
+01_textura_ladrillos.png,sal_pimienta,5,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",26.292107925291603,0.6800292358503522,2.8038000000378815
+01_textura_ladrillos.png,sal_pimienta,10,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",24.62993175946216,0.5188327276732636,0.14389999978448031
+01_textura_ladrillos.png,sal_pimienta,10,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",25.637169339993214,0.5789016536762583,0.204699999812874
+01_textura_ladrillos.png,sal_pimienta,10,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",25.847771415870355,0.7327022104336179,0.38829999994050013
+01_textura_ladrillos.png,sal_pimienta,10,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",35.769137629561875,0.9734229470963109,0.11850000009872019
+01_textura_ladrillos.png,sal_pimienta,10,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",32.89343199464122,0.954730344185583,0.3594999998313142
+01_textura_ladrillos.png,sal_pimienta,10,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",35.134813771740795,0.9739927476764821,57.53550000008545
+01_textura_ladrillos.png,sal_pimienta,10,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",31.168568886376345,0.9288214476682206,82.9042000004847
+01_textura_ladrillos.png,sal_pimienta,10,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",15.81852224078057,0.2135561788376948,1.382999999805179
+01_textura_ladrillos.png,sal_pimienta,10,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",23.26932889172818,0.4869776304522195,3.3051000000341446
+01_textura_ladrillos.png,sal_pimienta,30,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",19.7475970005366,0.3034548409337543,0.3455000005487818
+01_textura_ladrillos.png,sal_pimienta,30,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",20.819477817010274,0.3537906042393545,0.20529999983409652
+01_textura_ladrillos.png,sal_pimienta,30,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",22.910051565086754,0.5648891757669203,0.3770000002987217
+01_textura_ladrillos.png,sal_pimienta,30,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",24.16064189994006,0.7679621486815847,0.04439999975147657
+01_textura_ladrillos.png,sal_pimienta,30,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",29.716910182869913,0.9230937504838774,0.342100000125356
+01_textura_ladrillos.png,sal_pimienta,30,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",23.522222463805782,0.7109718260262057,64.40250000014203
+01_textura_ladrillos.png,sal_pimienta,30,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",25.69587515900492,0.6570672220782401,91.48999999979424
+01_textura_ladrillos.png,sal_pimienta,30,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",11.029880404511708,0.07894573497887421,1.3591999995696824
+01_textura_ladrillos.png,sal_pimienta,30,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",15.337453216776595,0.15573434612680775,2.521500000511878
+01_textura_ladrillos.png,gaussiano,10,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",33.528495861322256,0.8914580442356878,0.14449999980570283
+01_textura_ladrillos.png,gaussiano,10,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",33.2925807711033,0.9092083166911138,0.47089999952731887
+01_textura_ladrillos.png,gaussiano,10,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",27.65762718505304,0.8487745868366952,0.3913000000466127
+01_textura_ladrillos.png,gaussiano,10,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",33.266453200261324,0.8628664742275906,0.05030000011174707
+01_textura_ladrillos.png,gaussiano,10,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",31.88355761535235,0.904665825000222,0.340900000082911
+01_textura_ladrillos.png,gaussiano,10,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",32.60357101188585,0.8518201862229804,61.92009999995207
+01_textura_ladrillos.png,gaussiano,10,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",31.085924597369676,0.902967503603733,101.15909999967698
+01_textura_ladrillos.png,gaussiano,10,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",34.48138559737099,0.9062889852319238,1.3920999999754713
+01_textura_ladrillos.png,gaussiano,10,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",28.71896422815439,0.8717839005299335,2.670100000614184
+01_textura_ladrillos.png,gaussiano,20,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",30.167931713207366,0.746805879815781,0.2979000000777887
+01_textura_ladrillos.png,gaussiano,20,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",30.753027260947093,0.7942981392696817,0.24750000011408702
+01_textura_ladrillos.png,gaussiano,20,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",27.43763101493911,0.824534611439913,0.4011999999420368
+01_textura_ladrillos.png,gaussiano,20,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",28.75419117008434,0.6827151024042268,0.11730000005627517
+01_textura_ladrillos.png,gaussiano,20,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",29.3616204499028,0.7992028308605624,0.5017000003135763
+01_textura_ladrillos.png,gaussiano,20,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",28.028241148852203,0.6579914716049581,62.53110000034212
+01_textura_ladrillos.png,gaussiano,20,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",29.49485841216697,0.8242210418882779,98.15290000005916
+01_textura_ladrillos.png,gaussiano,20,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",26.76850878286182,0.5932061675614614,1.366500000585802
+01_textura_ladrillos.png,gaussiano,20,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",28.454067791028123,0.8367774887827159,3.8250000006883056
+01_textura_ladrillos.png,gaussiano,40,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",25.279687014968196,0.5298928539070615,0.3594999998313142
+01_textura_ladrillos.png,gaussiano,40,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",26.420843960521786,0.5907279120189413,0.21149999975023093
+01_textura_ladrillos.png,gaussiano,40,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",26.635722205410232,0.7494856654692156,0.3999999998995918
+01_textura_ladrillos.png,gaussiano,40,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",23.533318913964756,0.4605242788856839,0.10290000045642955
+01_textura_ladrillos.png,gaussiano,40,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",25.974110076652643,0.6079688811957735,0.3426000002946239
+01_textura_ladrillos.png,gaussiano,40,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",23.01374660161711,0.4314447744979054,62.41150000005291
+01_textura_ladrillos.png,gaussiano,40,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",26.81799415692964,0.6601578496868672,98.27560000030644
+01_textura_ladrillos.png,gaussiano,40,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",17.778835823313845,0.26529662556484385,1.37910000012198
+01_textura_ladrillos.png,gaussiano,40,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",25.086495096928594,0.5415319415874347,2.4987999995573773
+02_bordes_monedas.png,sal_pimienta,5,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",24.14245408186096,0.5700193236559709,0.20499999936873792
+02_bordes_monedas.png,sal_pimienta,5,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",24.66735591470608,0.6182144832191181,0.11549999999260763
+02_bordes_monedas.png,sal_pimienta,5,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",23.052396632328936,0.6191566660969452,0.1857999995991122
+02_bordes_monedas.png,sal_pimienta,5,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",28.471909438879205,0.8585400775279756,0.10010000005422626
+02_bordes_monedas.png,sal_pimienta,5,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",26.321472019189073,0.7738505646286451,0.2974999997604755
+02_bordes_monedas.png,sal_pimienta,5,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",29.44291532060291,0.8922266102011452,28.823300000112795
+02_bordes_monedas.png,sal_pimienta,5,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",25.32901933578362,0.7505769707302964,37.80449999976554
+02_bordes_monedas.png,sal_pimienta,5,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",18.169160037128748,0.3928602650561587,0.622099999418424
+02_bordes_monedas.png,sal_pimienta,5,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",22.001408374663477,0.5099548292037761,1.9075999998676707
+02_bordes_monedas.png,sal_pimienta,10,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",22.231558329176288,0.45130527124516706,0.06639999992330559
+02_bordes_monedas.png,sal_pimienta,10,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",22.929726481525655,0.5052729974917667,0.10029999975813553
+02_bordes_monedas.png,sal_pimienta,10,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",22.364497865979036,0.5718771412034086,0.2440999996906612
+02_bordes_monedas.png,sal_pimienta,10,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",27.870975932584496,0.849422314519921,0.05529999998543644
+02_bordes_monedas.png,sal_pimienta,10,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",26.089533096744262,0.7695966281853355,0.17520000074000563
+02_bordes_monedas.png,sal_pimienta,10,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",28.70361649635011,0.8822416882441494,27.029400000174064
+02_bordes_monedas.png,sal_pimienta,10,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",25.117186645264766,0.7419204904155347,40.45179999957327
+02_bordes_monedas.png,sal_pimienta,10,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",15.210122394939976,0.24320566945332317,0.9758999995028717
+02_bordes_monedas.png,sal_pimienta,10,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",18.845697905927196,0.35417616809729424,1.2484999997468549
+02_bordes_monedas.png,sal_pimienta,30,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",17.689018249819373,0.2635636850850534,0.0667000003886642
+02_bordes_monedas.png,sal_pimienta,30,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",18.409673447718934,0.30720704303705954,0.1004999994620448
+02_bordes_monedas.png,sal_pimienta,30,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",19.286413257208398,0.4357988890062242,0.194500000361586
+02_bordes_monedas.png,sal_pimienta,30,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",22.082771240351438,0.6805658565038101,0.024699999812582973
+02_bordes_monedas.png,sal_pimienta,30,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",24.75127322567925,0.7453043664998826,0.1764999997249106
+02_bordes_monedas.png,sal_pimienta,30,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",21.760141256821992,0.6609369360707626,27.017000000341795
+02_bordes_monedas.png,sal_pimienta,30,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",22.575244391080176,0.5289338293901561,39.25780000008672
+02_bordes_monedas.png,sal_pimienta,30,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",10.424224512904024,0.09951878061660725,0.974800000221876
+02_bordes_monedas.png,sal_pimienta,30,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",12.554782281344457,0.13872698581096535,1.1059999997087289
+02_bordes_monedas.png,gaussiano,10,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",26.821250493656876,0.7824126253196635,0.10399999973742524
+02_bordes_monedas.png,gaussiano,10,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",26.917346955326188,0.8020729485162345,0.12490000062825857
+02_bordes_monedas.png,gaussiano,10,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",23.638899639332674,0.6742828068232785,0.39740000011079246
+02_bordes_monedas.png,gaussiano,10,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",27.958151962094142,0.7753321536266313,0.020899999981338624
+02_bordes_monedas.png,gaussiano,10,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",26.193132751835343,0.7413232803487771,0.17839999964053277
+02_bordes_monedas.png,gaussiano,10,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",28.78701195322585,0.7989043547125917,29.641699999956472
+02_bordes_monedas.png,gaussiano,10,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",25.33000554046986,0.7294315921380577,41.43550000026153
+02_bordes_monedas.png,gaussiano,10,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",31.629884463167333,0.8681197850622562,0.6323999996311613
+02_bordes_monedas.png,gaussiano,10,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",26.688625679656365,0.7523500648620443,1.1323999997330247
+02_bordes_monedas.png,gaussiano,20,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",25.870462729267565,0.6706635356803666,0.06649999977526022
+02_bordes_monedas.png,gaussiano,20,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",26.18945597370939,0.7136210033524346,0.11679999988700729
+02_bordes_monedas.png,gaussiano,20,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",23.53899295514434,0.6560105231316087,0.20709999989776406
+02_bordes_monedas.png,gaussiano,20,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",26.000496204634274,0.6284900903522537,0.044999999772699084
+02_bordes_monedas.png,gaussiano,20,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",25.365252321867892,0.6646543593524673,0.19749999955820385
+02_bordes_monedas.png,gaussiano,20,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",26.2849548055072,0.6351690240284015,27.504399999997986
+02_bordes_monedas.png,gaussiano,20,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",24.881571157854758,0.6733948427779283,40.654600000380015
+02_bordes_monedas.png,gaussiano,20,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",26.21185500584509,0.6210846660587117,0.6088999998610234
+02_bordes_monedas.png,gaussiano,20,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",26.495475826981387,0.7381520273216307,1.1334000000715605
+02_bordes_monedas.png,gaussiano,40,media_3,"{""borde"": ""replicate"", ""ksize"": [3, 3]}",23.471159853605386,0.4942219264861679,0.06630000007135095
+02_bordes_monedas.png,gaussiano,40,gaussiano_1,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 1.0}",24.158946020650042,0.551677935463484,0.10019999990618089
+02_bordes_monedas.png,gaussiano,40,gaussiano_2,"{""borde"": ""replicate"", ""ksize"": [0, 0], ""sigma"": 2.0}",23.043886602776603,0.602484431778722,0.45310000041354215
+02_bordes_monedas.png,gaussiano,40,mediana_3,"{""borde"": ""replicate"", ""ksize"": 3}",22.348735489624584,0.42468332414420984,0.02080000012938399
+02_bordes_monedas.png,gaussiano,40,mediana_5,"{""borde"": ""replicate"", ""ksize"": 5}",23.387335383441567,0.5094198090331907,0.17519999983051093
+02_bordes_monedas.png,gaussiano,40,mediana_hibrida,"{""borde"": ""replicate"", ""definicion"": ""mediana_cruz_diagonales_centro"", ""ksize"": 5}",22.241305552120526,0.4204664090417833,26.404399999591988
+02_bordes_monedas.png,gaussiano,40,mediana_truncada,"{""agregacion"": ""media"", ""borde"": ""replicate"", ""ksize"": 5, ""recorte_por_extremo"": 5}",23.604139127579458,0.5453125857321263,40.269699999953446
+02_bordes_monedas.png,gaussiano,40,bilateral_A,"{""borde"": ""replicate"", ""d"": 5, ""sigmaColor"": 25, ""sigmaSpace"": 5}",18.22734827159212,0.3095281256270577,0.6124000001364038
+02_bordes_monedas.png,gaussiano,40,bilateral_B,"{""borde"": ""replicate"", ""d"": 9, ""sigmaColor"": 75, ""sigmaSpace"": 9}",24.218224893975787,0.5510324724710465,1.1391000007279217

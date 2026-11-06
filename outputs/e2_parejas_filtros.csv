@@ -1,4 +1,4 @@
-caja,gaussiano,corte_caja,corte_gaussiano,diferencia_corte,candidatos_empatados,ssim_caja,ssim_gaussiano,delta_ssim_gaussiano_menos_caja,ganador_ssim
-caja_3,gaussiano_0.8,1.0,1.0,0.0,gaussiano_0.8 / gaussiano_1.6 / gaussiano_3.0,0.9693192668276461,0.9790852731084525,0.009766006280806372,gaussiano_0.8
-caja_5,gaussiano_0.8,1.0,1.0,0.0,gaussiano_0.8 / gaussiano_1.6 / gaussiano_3.0,0.9018709523446652,0.9790852731084525,0.07721432076378731,gaussiano_0.8
-caja_9,gaussiano_0.8,1.0,1.0,0.0,gaussiano_0.8 / gaussiano_1.6 / gaussiano_3.0,0.7022370528266221,0.9790852731084525,0.2768482202818304,gaussiano_0.8
+caja,gaussiano,criterio,unidad_corte,corte_caja,corte_gaussiano,diferencia_corte,diferencia_relativa_corte,candidatos_empatados,ssim_caja,ssim_gaussiano,delta_ssim_gaussiano_menos_caja,ganador_ssim
+caja_3,gaussiano_0.8,kernel_radial_amplitud_0.5_interpolado,bins_imagen,109.58772081115279,119.88121494477257,10.293494133619774,0.0939292655913344,gaussiano_0.8,0.9693192668276461,0.9790852731084525,0.009766006280806372,gaussiano_0.8
+caja_5,gaussiano_1.6,kernel_radial_amplitud_0.5_interpolado,bins_imagen,63.77587397005067,59.91640618409804,3.8594677859526314,0.06051610970890103,gaussiano_1.6,0.9018709523446652,0.9048832851406237,0.0030123327959584723,gaussiano_1.6
+caja_9,gaussiano_3.0,kernel_radial_amplitud_0.5_interpolado,bins_imagen,35.01559454350969,31.983152556918146,3.0324419865915466,0.08660261309638749,gaussiano_3.0,0.7022370528266221,0.7394677297573852,0.037230676930763096,gaussiano_3.0

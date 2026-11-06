@@ -1,0 +1,7 @@
+filtro,parametros,criterio,frecuencia_corte_ciclos_pixel,frecuencia_corte_bins_imagen,rebotes_radiales_kernel,lobulos_seccion_axial,tolerancia_kernel,n_fft
+caja_3,"{""borde"": ""replicate"", ""dtype"": ""float64"", ""kernel"": [3, 3]}",kernel_radial_amplitud_0.5_interpolado,0.2140385172092828,109.58772081115279,1,1,0.005,2048
+caja_5,"{""borde"": ""replicate"", ""dtype"": ""float64"", ""kernel"": [5, 5]}",kernel_radial_amplitud_0.5_interpolado,0.12456225384775521,63.77587397005067,2,2,0.005,2048
+caja_9,"{""borde"": ""replicate"", ""dtype"": ""float64"", ""kernel"": [9, 9]}",kernel_radial_amplitud_0.5_interpolado,0.06838983309279237,35.01559454350969,4,4,0.005,2048
+gaussiano_0.8,"{""borde"": ""replicate"", ""dtype"": ""float64"", ""kernel"": [7, 7], ""sigma"": 0.8}",kernel_radial_amplitud_0.5_interpolado,0.23414299793900892,119.88121494477257,0,0,0.005,2048
+gaussiano_1.6,"{""borde"": ""replicate"", ""dtype"": ""float64"", ""kernel"": [11, 11], ""sigma"": 1.6}",kernel_radial_amplitud_0.5_interpolado,0.11702423082831648,59.91640618409804,0,0,0.005,2048
+gaussiano_3.0,"{""borde"": ""replicate"", ""dtype"": ""float64"", ""kernel"": [19, 19], ""sigma"": 3.0}",kernel_radial_amplitud_0.5_interpolado,0.062467094837730754,31.983152556918146,0,0,0.005,2048

@@ -1,0 +1,5 @@
+imagen,configuracion,percentil_alto,fraccion_baja,umbral_alto,umbral_bajo,px_borde
+01_textura_ladrillos.png,optima,95,0.6,234.0,140.4,17986
+01_textura_ladrillos.png,general,85,0.5,147.10540438746634,73.55270219373317,19269
+02_bordes_monedas.png,optima,95,0.6,303.3380936960841,182.00285621765047,5731
+02_bordes_monedas.png,general,85,0.5,133.2216198670471,66.61080993352356,13548

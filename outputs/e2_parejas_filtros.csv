@@ -1,0 +1,4 @@
+caja,gaussiano,corte_caja,corte_gaussiano,diferencia_corte,candidatos_empatados,ssim_caja,ssim_gaussiano,delta_ssim_gaussiano_menos_caja,ganador_ssim
+caja_3,gaussiano_0.8,1.0,1.0,0.0,gaussiano_0.8 / gaussiano_1.6 / gaussiano_3.0,0.9693192668276461,0.9790852731084525,0.009766006280806372,gaussiano_0.8
+caja_5,gaussiano_0.8,1.0,1.0,0.0,gaussiano_0.8 / gaussiano_1.6 / gaussiano_3.0,0.9018709523446652,0.9790852731084525,0.07721432076378731,gaussiano_0.8
+caja_9,gaussiano_0.8,1.0,1.0,0.0,gaussiano_0.8 / gaussiano_1.6 / gaussiano_3.0,0.7022370528266221,0.9790852731084525,0.2768482202818304,gaussiano_0.8
